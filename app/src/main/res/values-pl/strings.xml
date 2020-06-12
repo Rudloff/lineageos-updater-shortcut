@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Aktualizator</string>
+    <string name="launch_error">Nie można uruchomić aktualizacji</string>
 </resources>
